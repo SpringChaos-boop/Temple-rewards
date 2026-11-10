@@ -7,6 +7,8 @@
 // @match        *://*.catwar.su/blog994926*
 // @match        *://*.catwar.net/blog994926*
 // @icon         https://tinyurl.com/4pckuwth
+// @updateURL    https://github.com/SpringChaos-boop/Temple-rewards/raw/refs/heads/main/reward.user.js
+// @downloadURL  https://github.com/SpringChaos-boop/Temple-rewards/raw/refs/heads/main/reward.user.js
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
